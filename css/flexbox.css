@@ -111,7 +111,7 @@
     .menu__lista:nth-child(3) {
         flex-direction: column-reverse;
     }
-
+/* 
     .jogos {
         order: 3;
     }
@@ -123,5 +123,8 @@
     }
     .maispagina {
         order:4;
-    }
+    } */
+
 }
+
+/* flex-wrap: wrap;  PERMITE QUE AS COLUNAS SE QUEBREM PARA SE AJUSTAR EM UM CONTAINER*/
