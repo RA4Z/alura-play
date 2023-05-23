@@ -58,6 +58,13 @@
     flex-flow: column wrap;
 }
 
+/* VIDEO */
+
+.videos__item {
+    height: 303px;
+    width: 280px;
+}
+
 @media (min-width: 834px) {
     /* CABEÇALHO */
     .cabecalho__pesquisar__item {
